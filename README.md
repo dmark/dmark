@@ -1,11 +1,11 @@
 ## It was the best butter
 
-I'm currently working on:
+🔭 I'm currently working on:
 
 - CISSP Certification
 - B.A. in Economics
 
-I'm currently learning:
+🌱 I'm currently learning:
 
 - [Graph theory](https://www.goodreads.com/book/show/388049.Introduction_to_Graph_Theory)
 - Differential equations
@@ -34,7 +34,7 @@ More recently I helped lead my employer into cloud services and I now work prima
 
 __After Hours__
 
-I'm an undergraduate in Economics at Queen's University, ever so slowly chipping away at a B.A. I'm also an avid motorcyclist (#R1200GSLife), [bookworm](https://www.goodreads.com/drumboots) (mainly scifi and non-fiction), and [gamer](https://steamcommunity.com/id/SamuraiMark/), where I mostly play RPGs and way too much Destiny.
+I'm a part-time undergraduate at Queen's University, ever so slowly chipping away at a B.A in Economics. I'm also an avid motorcyclist (#R1200GSLife), [bookworm](https://www.goodreads.com/drumboots) (mainly scifi and non-fiction), and [gamer](https://steamcommunity.com/id/SamuraiMark/), where I mostly play RPGs and way too much Destiny.
 
 __My Github Projects__
 
