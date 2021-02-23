@@ -1,4 +1,4 @@
-### Hi there 👋
+### It was the best butter
 
 <!--
 **dmark/dmark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +17,12 @@ Here are some ideas to get you started:
 
 __The Day Job__
 
-I work primarily in digital identity and cloud services. Over 20 years of experience in Unix & Linux system operations, networking, security, and Identity & Access Management. 
+My background is in Unix & Linux system operations, networking, security, and identity & access management. These days I work primarily in digital identity and cloud service platforms including @Auth0, @AWS and @GoogleCloudPlatform.
 
 __After Hours__
 
-Undergraduate in Economics at Queen's University. Avid motorcyclist, bookworm, video game player, and guitar wannabee.
+I'm an Undergraduate in Economics at Queen's University, avid motorcyclist, bookworm, and video game player.
+
+__My Github Projects__
+
+I've been pretty idle of late. In particular my most significant project, a [command line interface](https://github.com/dmark/authzero) for @Auth0, has been stalled for a year or more. What can I say ... I work full-time and I'm a part-time undergrad!
