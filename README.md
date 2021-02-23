@@ -1,4 +1,4 @@
-### It was the best butter
+## It was the best butter
 
 <!--
 **dmark/dmark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +21,7 @@ My background is in Unix & Linux system operations, networking, security, and id
 
 __After Hours__
 
-I'm an Undergraduate in Economics at Queen's University, avid motorcyclist, bookworm, and video game player.
+I'm an undergraduate in Economics at Queen's University, avid motorcyclist, [bookworm](https://www.goodreads.com/drumboots), and video game player.
 
 __My Github Projects__
 
