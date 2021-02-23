@@ -1,4 +1,4 @@
-## It was the best butter
+## It Was the Best Butter
 
 🔭 I'm currently working on:
 
