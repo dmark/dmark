@@ -1,5 +1,16 @@
 ## It was the best butter
 
+I'm currently working on:
+
+- CISSP Certification
+- B.A. in Economics
+
+I'm currently learning:
+
+- [Graph theory](https://www.goodreads.com/book/show/388049.Introduction_to_Graph_Theory)
+- Differential equations
+- JavaScript / TypeScript
+
 <!--
 **dmark/dmark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,11 +28,13 @@ Here are some ideas to get you started:
 
 __The Day Job__
 
-My background is in Unix & Linux system operations, networking, security, and identity & access management. These days I work primarily in digital identity and cloud service platforms including @Auth0, @AWS and @GoogleCloudPlatform.
+24 years in ... My background is in Unix & Linux system operations, networking, security, and identity & access management, going back to early Hewlett-Packard and Silicon Graphics workstations, and the old Netscape suite of server side products. Add in a whole lot of Sun Microsystems stuff, and some IBM POWER + AIX.
+
+More recently I helped lead my employer into cloud services and I now work primarily in digital identity with Auth0 and cloud service platforms including AWS and GCP.
 
 __After Hours__
 
-I'm an undergraduate in Economics at Queen's University, avid motorcyclist, [bookworm](https://www.goodreads.com/drumboots), and video game player.
+I'm an undergraduate in Economics at Queen's University, ever so slowly chipping away at a B.A. I'm also an avid motorcyclist (#R1200GSLife), [bookworm](https://www.goodreads.com/drumboots) (mainly scifi and non-fiction), and [gamer](https://steamcommunity.com/id/SamuraiMark/), where I mostly play RPGs and way too much Destiny.
 
 __My Github Projects__
 
