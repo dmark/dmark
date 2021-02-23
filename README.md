@@ -38,6 +38,6 @@ I'm a part-time undergraduate at [Queen's University](https://www.queensu.ca), e
 
 I'm also an avid motorcyclist (#R1200GSLife), [bookworm](https://www.goodreads.com/drumboots) (mainly scifi and non-fiction), and [gamer](https://steamcommunity.com/id/SamuraiMark/), where I mostly play RPGs and way too much Destiny.
 
-### My Github Projects
+### My GitHub Projects
 
 My projects have been pretty idle of late. In particular my most significant project, a [command line interface](https://github.com/dmark/authzero) for Auth0, has been stalled for a year or more. What can I say ... I work full-time and I'm a part-time undergrad. I'm swamped!
