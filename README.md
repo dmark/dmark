@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+__The Day Job__
+
+I work primarily in digital identity and cloud services. Over 20 years of experience in Unix & Linux system operations, networking, security, and Identity & Access Management. 
+
+__After Hours__
+
+Undergraduate in Economics at Queen's University. Avid motorcyclist, bookworm, video game player, and guitar wannabee.
