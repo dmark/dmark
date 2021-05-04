@@ -4,6 +4,7 @@
 
 - [CISSP Certification](https://www.isc2.org/Certifications/CISSP)
 - A B.A. in [Economics](https://en.wikipedia.org/wiki/Economics)
+- Not putting more stuff on my plate than I actually have time for
 
 👨‍🎓 I'm currently learning:
 
