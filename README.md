@@ -5,6 +5,11 @@
 - A B.A. in [Economics](https://en.wikipedia.org/wiki/Economics)
 - Not putting more stuff on my plate than I actually have time for
 
+I'm over here:
+
+- <a rel="me" href="https://infosec.exchange/@iamatwork">Mastodon</a>
+
+
 <!--👨‍🎓 I'm currently reading:
 
 - [Graph theory](https://en.wikipedia.org/wiki/Graph_theory)
