@@ -5,11 +5,6 @@
 - A B.A. in [Economics](https://en.wikipedia.org/wiki/Economics)
 - Not putting more stuff on my plate than I actually have time for
 
-📫 I'm over here:
-
-- <a rel="me" href="https://infosec.exchange/@iamatwork">Mastodon</a>
-- <a href="https://www.linkedin.com/in/medrummond/">LinkedIn</a>
-
 <!--👨‍🎓 I'm currently reading:
 
 - [Graph theory](https://en.wikipedia.org/wiki/Graph_theory)
@@ -34,7 +29,7 @@ Here are some ideas to get you started:
 
 ### The Day Job
 
-24 years in: My background is in Unix & Linux system operations, networking, security, and identity & access management, going back to early Hewlett-Packard and Silicon Graphics workstations, and the old Netscape suite of server side products. Add in a whole lot of Sun Microsystems stuff, and some IBM POWER + AIX.
+24 years in: My background is in Unix & Linux system operations, networking, security, and identity & access management, going back to early Hewlett-Packard and Silicon Graphics workstations, and the old Netscape/iPlanet/Sun One etc. suite of server side products. Add in a whole lot of Sun Microsystems stuff, and some IBM POWER + AIX.
 
 More recently I helped lead my employer into cloud services and I now work primarily in digital identity with [Auth0](https://auth0.com/) and cloud service platforms including [AWS](https://aws.amazon.com) and [GCP](https://cloud.google.com).
 
