@@ -1,9 +1,11 @@
-## It Was the Best Butter
+# It Was the Best Butter
+
+A Unix and Linux evangelist since before Slackware was Slackware, I began my career in system operations in 1996. The ever-present digital identity footnote to my career eventually took centre stage, and I now work at the intersection of digital trust & identity and cybersecurity, GRC, and privacy.
 
 👨‍💻 I'm currently working on:
 
-- A B.A. in [Economics](https://en.wikipedia.org/wiki/Economics)
-- Not putting more stuff on my plate than I actually have time for
+- A B.A. in [Economics](https://en.wikipedia.org/wiki/Economics) at [Queen's University](https://queensu.ca),
+- Upgrading my CISSP to a CISSP-ISSAP.
 
 <!--👨‍🎓 I'm currently reading:
 
@@ -27,18 +29,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### The Day Job
+## My GitHub Projects
 
-24 years in: My background is in Unix & Linux system operations, networking, security, and identity & access management, going back to early Hewlett-Packard and Silicon Graphics workstations, and the old Netscape/iPlanet/Sun One etc. suite of server side products. Add in a whole lot of Sun Microsystems stuff, and some IBM POWER + AIX.
-
-More recently I helped lead my employer into cloud services and I now work primarily in digital identity with [Auth0](https://auth0.com/) and cloud service platforms including [AWS](https://aws.amazon.com) and [GCP](https://cloud.google.com).
-
-### After Hours
-
-I'm a part-time undergraduate at [Queen's University](https://www.queensu.ca), ever so slowly chipping away at a B.A in Economics. My main interests in Economics include tax policy, health care economics, and mathematical economics.
-
-I'm also an avid motorcyclist (#R1200GSLife), [bookworm](https://www.goodreads.com/drumboots) (mainly sci-fi and non-fiction), and [gamer](https://steamcommunity.com/id/SamuraiMark/), where I mostly play RPGs and way too much Destiny.
-
-### My GitHub Projects
-
-My projects have been pretty idle of late. In particular my most significant project, a [command line interface](https://github.com/dmark/authzero) for Auth0, has been superceded by Auth0's [own solution](https://github.com/auth0/auth0-cli)!
+My projects have been pretty idle of late. In particular my most significant project, a [command line interface](https://github.com/dmark/authzero) for Auth0, is superceded by Auth0's [own solution](https://github.com/auth0/auth0-cli)!
