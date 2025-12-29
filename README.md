@@ -1,21 +1,14 @@
-# It Was the Best Butter
-
-A Unix and Linux evangelist since before Slackware was Slackware, I began my career in system operations in 1996. I work on digital trust and identity. I am interested in where and how digital trust and identity supports and enables cybersecurity, GRC, and privacy.
+IAM Architect | Identity Security Architect | CIAM, Enterprise IAM, Zero Trust, Cloud Identity | CISSP, CIDPRO
 
 👨‍💻 I'm currently working on:
 
-- A B.A. in [Economics](https://www.econ.queensu.ca/) at [Queen's University](https://queensu.ca),
-- Upgrading my CISSP to a CISSP-ISSAP.
+- Learning golang, and [translating the exercises from "OAuth 2 in Action" into Go](https://github.com/dmark/oauth2-in-action-golang).
+- Learning Entra ID and maybe getting the SC-300 and SC-100 certs.
+- Contemplating what's next given I just completed my BA in Economics (November 2025).
 
 👨‍🎓 I'm currently reading:
 
-- George Orwell, _Selected Essays_.
-- _Slice Me Some Truth_, a collection of Canadian creative non-fiction essays.
-- Lee Gutkind, _You Can't Make This Stuff Up_, about how to write creative non-fiction.
-- Steven Pinker, _The Sense of Style_, about how to write well.
-- Augustine, _Confessions_.
-- David Kahn, _The Codebreakers_.
-- Auguste Kerckhoffs, _La Cryptographie Militaire_.
+- https://markdrummond.ca/2025-books.html
 
 <!--
 **dmark/dmark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
