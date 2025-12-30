@@ -1,4 +1,4 @@
-IAM Architect | Identity Security Architect | CIAM, Enterprise IAM, Zero Trust, Cloud Identity | CISSP, CIDPRO
+**IAM Architect-Engineer | Identity Security Architect | CIAM, Enterprise IAM, Zero Trust, Cloud Identity | CISSP, CIDPRO**
 
 I fancy myself an IAM "Architect-Engineer". That is to say, while my primary motivation is IAM industry-wide evolution, standards, and strategy, I take a technical engineering approach to my work. It is not enough for me to have simply read the docs. An IAM Architect should have the technical experience, depth, and interest to understand the low-level mechanics of IAM protocols and systems.
 
