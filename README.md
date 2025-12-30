@@ -18,8 +18,8 @@ I fancy myself an IAM "Architect-Engineer". That is to say, while my primary mot
 💬 My "socials":
 
 - LinkedIn: https://www.linkedin.com/in/medrummond/
-- Bluesky: https://bsky.app/profile/markdrummond.ca
-- Mastodon: https://ioc.exchange/@markdrummond
+- Bluesky (mostly lurking): https://bsky.app/profile/markdrummond.ca
+- Mastodon (I'm hardly ever there): https://ioc.exchange/@markdrummond
 
 <!--
 **dmark/dmark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
