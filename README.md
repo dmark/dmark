@@ -8,7 +8,7 @@ I fancy myself an IAM "Architect-Engineer". That is to say, while my primary mot
 - Learning Entra ID and maybe getting the SC-300 and SC-100 certs.
 - Contemplating what's next given I just completed my BA in Economics (November 2025)†.
 
-†Possibly misleading. I'm no fresh-faced 20-something. I always wanted to earn a BA so I did it part-time while working. I am by no means the oldest person to each a BA, but I'm no spring chicken either.
+†Possibly misleading. I'm no fresh-faced 20-something. I always wanted to earn a BA so I did it part-time while working. I am by no means the oldest person to earn a BA, but I'm no spring chicken either.
 
 📚 I'm currently reading:
 
