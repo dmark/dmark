@@ -1,11 +1,9 @@
-**IAM Architect-Engineer | Identity Security Architect | CIAM, Enterprise IAM, Zero Trust, Cloud Identity | CISSP, CIDPRO**
-
-I fancy myself an IAM "Architect-Engineer". That is to say, while my primary motivation is IAM industry-wide evolution, standards, and strategy, I take a technical engineering approach to my work. It is not enough for me to have simply read the docs. An IAM Architect should have the technical experience, depth, and interest to understand the low-level mechanics of IAM protocols and systems.
+**Principal IAM Architect & Systems Engineer | Identity Security Strategy & Architecture | CIAM, Enterprise IAM, Zero Trust, Cloud Identity | CISSP, CIDPRO**
 
 👨‍💻 I'm currently working on:
 
 - Learning golang, and [translating the exercises from "OAuth 2 in Action" into Go](https://github.com/dmark/oauth2-in-action-golang).
-- Learning Entra ID and maybe getting the SC-300 and SC-100 certs.
+- Learning Entra ID, a significant gap in my knowledge, and maybe getting the SC-300 and SC-100 certs.
 - Contemplating what's next given I just completed my BA in Economics (November 2025)†.
 
 †Possibly misleading. I'm no fresh-faced 20-something. I always wanted to earn a BA so I did it part-time while working. I am by no means the oldest person to earn a BA, but I'm no spring chicken either.
