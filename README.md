@@ -1,5 +1,7 @@
 **Principal IAM Architect & Systems Engineer | Identity Security Strategy & Architecture | CISSP, CIDPRO**
 
+My things: *Identity & Access Management (IAM) • Systems Engineering • Identity Security Architecture • Cloud Security • Identity Governance & Administration (IGA)*
+
 👨‍💻 I'm currently working on:
 
 - Learning golang, and [translating the exercises from "OAuth 2 in Action" into Go](https://github.com/dmark/oauth2-in-action-golang).
