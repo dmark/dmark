@@ -1,4 +1,4 @@
-**Principal IAM Architect & Systems Engineer | Identity Security Strategy & Architecture | CIAM, Enterprise IAM, Zero Trust, Cloud Identity | CISSP, CIDPRO**
+**Principal IAM Architect & Systems Engineer | Identity Security Strategy & Architecture | CISSP, CIDPRO**
 
 👨‍💻 I'm currently working on:
 
