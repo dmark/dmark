@@ -5,14 +5,16 @@ My things: *Identity & Access Management (IAM) • Systems Engineering • Ident
 👨‍💻 I'm currently working on:
 
 - Learning golang, and [translating the exercises from "OAuth 2 in Action" into Go](https://github.com/dmark/oauth2-in-action-golang).
+- Noodling [Lisp with SICP](https://github.com/dmark/sicp).
 - Learning Entra ID, a significant gap in my knowledge, and maybe getting the SC-300 and SC-100 certs.
 - Contemplating what's next given I just completed my BA in Economics (November 2025)†.
+- Burning through my stack of books with all my newfound free time now that my BA is done.
 
 †Possibly misleading. I'm no fresh-faced 20-something. I always wanted to earn a BA so I did it part-time while working. I am by no means the oldest person to earn a BA, but I'm no spring chicken either.
 
 📚 I'm currently reading:
 
-- See the full list here: https://markdrummond.ca/2025-books.html
+- See the full, or nearly full, list here: https://markdrummond.ca/2026-books.html
 - Or follow me on Goodreads I suppose? https://www.goodreads.com/medrummond
 
 💬 My "socials":
