@@ -23,6 +23,8 @@ My things: *Identity & Access Management (IAM) • Systems Engineering • Ident
 - Bluesky (mostly lurking): https://bsky.app/profile/markdrummond.ca
 - Mastodon (I'm hardly ever there): https://ioc.exchange/@markdrummond
 
+I know people dunk on LinkedIn a lot, but honestly, it is the least toxic of all the social network services.
+
 <!--
 **dmark/dmark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
