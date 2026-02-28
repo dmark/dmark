@@ -19,6 +19,7 @@ My things: *Identity & Access Management (IAM) • Systems Engineering • Ident
 💬 My "socials":
 
 - LinkedIn: https://www.linkedin.com/in/medrummond/
+- Substack (planning to exercise my writing muscles): https://iamatwork.substack.com
 - Bluesky (mostly lurking): https://bsky.app/profile/markdrummond.ca
 - Mastodon (I'm hardly ever there): https://ioc.exchange/@markdrummond
 
