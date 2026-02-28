@@ -5,8 +5,7 @@ My things: *Identity & Access Management (IAM) • Systems Engineering • Ident
 👨‍💻 I'm currently working on:
 
 - Learning golang, and [translating the exercises from "OAuth 2 in Action" into Go](https://github.com/dmark/oauth2-in-action-golang).
-- Noodling [Lisp with SICP](https://github.com/dmark/sicp).
-- Learning Entra ID, a significant gap in my knowledge, and maybe getting the SC-300 and SC-100 certs.
+- [Learning Japanese](https://github.com/dmark/notes/tree/main/nihongo).
 - Contemplating what's next given I just completed my BA in Economics (November 2025)†.
 - Burning through my stack of books with all my newfound free time now that my BA is done.
 
